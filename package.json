@@ -1,5 +1,5 @@
 {
-  "name": "dias",
+  "name": "node-dias",
   "version": "0.0.1",
   "description": "Plug and play project generator framework",
   "main": "index.js",
